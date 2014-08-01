@@ -1,0 +1,23 @@
+{
+  "name": "101node",
+  "private": true,
+  "version": "1.2.3",
+  "description": "a Sails application",
+  "dependencies": {
+    "ejs": "0.8.4",
+    "grunt": "0.4.1",
+    "optimist": "0.3.4",
+    "sails": "0.9.16",
+    "sails-disk": "~0.9.0",
+    "sails-postgresql": "^0.9.7",
+    "bcrypt": "0.7.8"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "repository": "",
+  "author": "Jimmy A Solarte",
+  "license": "123-123-123"
+}
